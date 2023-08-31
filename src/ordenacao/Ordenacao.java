@@ -1,3 +1,5 @@
+package ordenacao;
+
 import ordenacao.Pessoa;
 
 import java.time.LocalDate;
